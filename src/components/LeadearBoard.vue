@@ -103,15 +103,6 @@
                                               </div>  
                                         </div>
                                         </div>
-                                        
-                                      <div
-                                        id="standingsRow-0"
-                                        role=""
-                                        aria-labelledby="standingsAccordion0"
-                                        class="waf-accordion-panel"
-                                        hidden="true"
-                                        >  
-                                      </div>
                                     </div>
                                     </div>
                                   </div>      
